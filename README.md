@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoenix507r
-- 👀 I’m interested in music, art, statistics, data science, psychology, connections, learning, improving, exploring
-- 🌱 I’m currently learning Python, R, and SQL
+- 👀 I’m interested in UX design and web development
+- 🌱 I’m currently learning Processing, Python, Figma, Adobe XD
 - 💞️ I’m looking to collaborate on pretty much anything really :)
 - 📫 How to reach me: phoenix507r@gmail.com
 
